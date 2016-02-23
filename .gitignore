@@ -1,0 +1,31 @@
+doc
+## MAC OS
+.DS_Store
+
+## TEXTMATE
+*.tmproj
+tmtags
+
+## EMACS
+*~
+\#*
+.\#*
+
+## VIM
+*.swp
+
+## APTANA
+.project
+
+## PROJECT::GENERAL
+coverage
+rdoc
+pkg
+## PROJECT::SPECIFIC
+
+Guardfile
+foo_test.rb
+
+/.bundle
+/vendor
+*.gem
